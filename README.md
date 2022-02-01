@@ -22,7 +22,9 @@ There is also a clock at the top right, and a counter for the amount of tiles ar
 Key Bindings
 ----------------------------------------------------------------------
 Mouse 0: dig
+
 Mouse 1: flag
+
 Esc: reset board
 
 How to Run
