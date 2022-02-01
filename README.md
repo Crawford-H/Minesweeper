@@ -10,13 +10,16 @@ The master branch is very basic as I wanted to keep the code clean.  The experim
 
 The master version plays like a classic game of Minesweeper. Allowing you to flag and dig tiles with a mouse.  A number of tiles contain a bomb which are randomly placed, so you can't just 
 memorize locations of the bombs.  The master version doesn't check for if a game is won or lost.  
+
 ![Image of game](Capture.PNG)
 
 In the experimental verison, I decided to test out making a menu, which contains buttons that change colour when hovered over, along with testing when a game is lost, so there are actually
 repercussions for clicking on a bomb. In the event of this and game over sceen will show up and the game will have to be re-started.
+
 ![Image of menu](menu.PNG)
 
 There is also a clock at the top right, and a counter for the amount of tiles are flagged.
+
 ![Image of experimental game](game.PNG)
 
 Key Bindings
